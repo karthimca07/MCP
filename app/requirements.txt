@@ -1,0 +1,4 @@
+fastmcp
+uvicorn[standard]>=0.30.0
+asyncpg
+python-dotenv
